@@ -104,7 +104,7 @@ firstButtonElement.addEventListener("click",event =>{
 
     const backPictureElement=document.querySelector(".back-image")
     
-    backImageELement.style.backgroundImage='url("./assets/img/6.jpg")'
+    backImageELement.style.backgroundImage='url("./assets/img/tttt.png")'
     backImageELement.style.width="320px"
     backImageELement.style.height="400px"
     backImageELement.style.backgroundSize="contain"
@@ -118,7 +118,7 @@ secondButtonElement.addEventListener("click",event =>{
 
     const backPictureElement=document.querySelector(".back-image")
     
-    backImageELement.style.backgroundImage='url("./assets/img/9.jpg")'
+    backImageELement.style.backgroundImage='url("./assets/img/www.png")'
     
     backImageELement.style.backgroundSize="contain"
     backImageELement.style.backgroundRepeat="no-repeat"
@@ -132,7 +132,7 @@ threeButtonElement.addEventListener("click",event =>{
 
     const backPictureElement=document.querySelector(".back-image")
     
-    backImageELement.style.backgroundImage='url("./assets/img/bbbb.jpg")'
+    backImageELement.style.backgroundImage='url("./assets/img/eee.png")'
     
     backImageELement.style.backgroundSize="contain"
     backImageELement.style.backgroundRepeat="no-repeat"
@@ -147,7 +147,7 @@ fourthButtonElement.addEventListener("click",event =>{
 
     const backPictureElement=document.querySelector(".back-image")
     
-    backImageELement.style.backgroundImage='url("./assets/img/7.jpg")'
+    backImageELement.style.backgroundImage='url("./assets/img/rrr.png")'
     
     backImageELement.style.backgroundSize="contain"
     backImageELement.style.backgroundRepeat="no-repeat"
